@@ -6,4 +6,5 @@ package com.example.wz.listview;
 
 public class NewClass {
     private String name;
+    private String price;
 }
